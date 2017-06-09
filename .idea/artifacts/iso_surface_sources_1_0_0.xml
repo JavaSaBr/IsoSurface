@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iso-surface-sources.1.0.0">
+    <output-path>$PROJECT_DIR$/release</output-path>
+    <root id="archive" name="iso-surface-sources.1.0.0.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java" />
+    </root>
+  </artifact>
+</component>
